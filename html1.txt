@@ -1,0 +1,13 @@
+EX)
+
+Hypertext Markup Language (HTML) is the standard markup language for <strong>creating web pages</strong> and web application
+
+ 
+
+<strong> </strong> 
+
+ 
+
+출력형태
+
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web application
