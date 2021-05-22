@@ -1,0 +1,7 @@
+﻿<br><br>HTML elements are the building blocks of HTML pages  <!--<br>HTML 줄바꿈  tag-->
+
+<p>HTML elements are the building blocks of HTML pages</p>  <!--<p></p>HTML 단락을 나누는 tag-->
+
+<br>로 단락을 나누기 위해서는<br>를 여러번 사용<br><br> 해야하는 불편함이 있어 단순 줄바꿈이 아닌 단락을 나눌때에는<p></p>가 좋음
+
+
