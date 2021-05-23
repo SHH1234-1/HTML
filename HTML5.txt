@@ -1,13 +1,23 @@
-﻿<img src= "nn.jpg" width="100%">
+﻿<!--만일 항목이 1억개가 있고 번호가 12345~순으로 매겨저 있을 때 첫항목을 빼고 2번째항목을 1번째 항목으로 바꿔줘야 할때-->
+<ol> <!--항목에 자동으로  넘버링하는 문법 ol-->
+<li> Number </li>
+<li> Number </li>
+<li> Number </li>
+</ol>
+
+<ul>
+<li>kim</li>
+<li>lee</li>
+<li>park</li>
+</ul>
+
+출력결과
+
+1. Number 
+2. Number <!--ol 문법으로 자동으로 넘버링-->
+3. Number 
 
 
-HTML에 사진을 넣는 문법
-<img>
-
-EX)<img src = "nn.jpg" width="100%">
-1.img src로 이미지를 넣을 것을 선언
-2.img를 넣을 것을 HTML이 저장된 폴더에 넣기
-3.이미지이름(여기에서는nn)+확장자명 넣기(여기서는.jpg확장자)
-4.width문법
-width문법은 이미지의 크기를 조절하는 문법 내가 연습하는 과정에서는HTML
-홈페이지에서 문법의 크기가 너무 크기에 width+"100%"로 이미지 크기를 조정함
+•kim    <!--ul 문법으로 넘버링이 되지 않은채 출력-->
+•lee
+•park
