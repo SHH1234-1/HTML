@@ -1,0 +1,13 @@
+﻿<!<!DOCTYPE html>  <!--이 문서가 html로 작성되었다라는 것을 확인해주는 태그  -->
+>
+<html>                        <!--html에서 모든것을 감싸는 tag 최상위 태그 <html>  -->
+
+<head>                     <!--html에서 body tag를 감싸는 tag가 head tag-->
+<title>WEB1 - html</title> <!--홈페이지 주소창 위에 있는 칸에 표-->
+<h1>HTML이란 무엇인가?</h1><!--홈페이지에서 글자가 인식이 안됨 utf인식이 아직 되지 않았음-->
+<meta charset="utf-8">  <!--utf파일로 문자를 인식하는 문법 meta char(문자를)set(세트하다)-->
+
+<body>
+</body>                   <!--html에서 중간 부분은body태그로 정의해야함-->
+</head>
+<html>                       <!--html에서 모든것을 감싸는 tag 최상위 태그 <html>-->
