@@ -1,0 +1,27 @@
+html링크 참조
+
+예
+<a href="https://atom.io/"target="_blank" title="html5 speicification">Hypertext Markup Language (HTML)</a> is standard markup language
+
+Hypertext Markup Language (HTML)를 클릭했을 때 https://atom.io/"target=로 넘어감
+
+1.클릭했을 때 링크를 걸 양끝에<a></a>를 입력한다
+
+2.hyper text의 첫자인 h와 참조라는 단어reference의 3글자를 따서 href를 입력한후 = 하고 ""를 하고 그 사이에 링크를 걸 사이트를 넣는다
+위 참조사이트는 아톰다운로드하는 사이트
+
+3.<a href="https://atom.io/">Hypertext Markup Language (HTML)</a> 
+는 새로운 탭을 열지 않고 그 탭에서에서 다음탭으로 넘어감
+
+4.만일 <a href="https://atom.io/">Hypertext Markup Language (HTML)</a>에서 새로운 탭으로 링크 사이트를 열려고 한다면
+<a href="https://atom.io/">Hypertext Markup Language (HTML)</a>에 target="_blank"를 입력한다
+ 
+결과
+ <a href="https://atom.io/target="_blank">Hypertext Markup Language (HTML)</a>
+새로운 탭이 열림
+
+또 링크에 마우스를 가져다 댈때 링크에 정보를 표시하고 싶다면  title="내용" 입력
+
+예시
+<a href="https://atom.io/target="_blank" title="html5">Hypertext Markup Language (HTML)</a>
+
