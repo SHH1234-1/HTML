@@ -1,0 +1,26 @@
+<html>
+<head><meta charset="utf-8"></head>
+<body>
+<table border="2">
+    <thead><!--표의 가장 위쪽에 위치-->
+        <tr>
+            <th>이름</th>     <th>성별</th>   <th>주소</th> <th>회비</th>  <!--각각의 열들이 제목에 위치되게 하는 것 th-->
+        </tr>
+    </thead>
+    <tbody><!--하지않아도 브라우저가 자동으로 해줌 테이블의 중-->
+        <tr>
+            <td>최진혁</td>  <td>남</td>      <td >청주</td> <td>1000</td>
+        </tr>
+        <tr>
+            <td>최유빈</td>  <td>여</td>      <td>청주</td> <td>500</td>
+        </tr>
+    </tbody>
+    <tfoot> <!--표상에서 가장 아래쪽에 위치-->
+        <tr>
+            <td>합계</td>  <td></td>      <td></td> <td>1500</td>
+        </tr>
+    </tfoot>
+
+</table>
+</body>
+</html>
