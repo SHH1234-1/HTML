@@ -1,0 +1,9 @@
+<html>
+<body>
+<form action="">
+<p>ID<input type ="text" name="id" value="default value"></p><!--value="default value"기본값을 default value로 정의한다는뜻-->
+<p>password<input type ="password" name="pwd" value="default value"></p>
+<p>textarea:
+<textarea cols="50"rows="10">default value</textarea><!--textarea 추가적으로 text를 적을 수 있는란--><!--cols rows를 이용해 textarea의 행과 열의 크기를 조정-->
+</body>
+</html>
