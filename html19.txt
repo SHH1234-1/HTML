@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>이미지가 깨질때 처리하는 태그 alt</title>
+  </head>
+  <body>
+    <img src="21.png" alt="이미지가 없습니다 "><!--만일 이미지가 없으면 이미지가 없습니다 라고 화면에 뜨는 태그 alt-->
+    <img src="images/21/png" alt="이미지가 없습니다"><!--images 라고 하는 폴더에 21이라고 하는 png파일을 화면에 출력 없으면 "이미지가 없습니다를 화면에 출력"-->
+    <a href="1.html"><img src="images/21/png" alt="이미지가 없습니다"></a><!--이미지를 클릭했을때 1.html이라고 하는 사이트로 이동-->
+  </body>
+</html>
