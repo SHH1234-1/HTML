@@ -1,0 +1,20 @@
+//함수선언
+function doSomething(add){
+    console.log(add);
+    const result = add(2 , 3);
+    console.log(result);
+}
+
+function add(a,b){
+    const sum = a + b;
+    return sum;
+}
+
+
+//함수 호출
+doSomething(add); //add함수 자체를 파라메터 값으로 넘김
+//doSomething(add()); add()함수 자체가 먼저 실행되고 sum 값이 doSomething의 파라메터값으로 들어가서 출력 그러나 sum에 숫자가 없으므로 NaN으로 출력됨
+
+const result = add(1,2);
+console.log(result);
+
